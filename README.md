@@ -64,3 +64,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## How to clone and run the repository
+1.Run git clone https://github.com/AlejandroCruG/WhatsApp_Commerce.git
+2.Run composer install
+3.Copy the content of .env.example, create a new file named .env and paste the content
+4.Run php artisan key:generate
+5.Run php artisan migrate
+6.Run php artisan serve
+7 Open the Link
